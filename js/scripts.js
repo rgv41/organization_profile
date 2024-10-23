@@ -148,7 +148,7 @@
     ---------------------*/
     $("#map").gmap3({
         marker:{     
-        address:"44 W 66th St, New York, NY", 
+        address:"block B1 no 3B, Jl. Pd. Kelapa Raya No.B1, RT.5/RW.4, Pd. Klp., Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450", 
         options:{ icon: "../img/assets/marker.png"}},
         map:{
         options:{
