@@ -806,7 +806,7 @@ nav {
 }
 .navbar-default {
     position: fixed;
-    background-color: #fbeee9;
+    background-color: #000000;
     border-radius: 0;
 	border-color: none;
 	border-bottom: none;
@@ -821,7 +821,7 @@ nav {
     background-color: transparent;
 }
 .navbar-small {
-    background: #f1ece9;
+    background: #ffffff;
     -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
 	-moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.15);
 	box-shadow:0 1px 4px rgba(0, 0, 0, 0.15);
@@ -871,7 +871,7 @@ nav {
 } 
 .navbar-alt .navbar-nav > li > a,
 .navbar-alt .navbar-nav > li > span {
-	color: #ff6a00;
+	color: #e1d383;
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
@@ -1077,8 +1077,8 @@ nav {
 .navbar-default .navbar-brand .logo-big {
 	position:absolute;
     opacity: 1;
-    width: 80px;
-    margin-top: 8px; 
+    width: 240px;
+    margin-top: 70px; 
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
@@ -1087,8 +1087,8 @@ nav {
 }
 .navbar-default .navbar-brand .logo-small {
 	position:absolute;
-    width: 90px;
-    margin-top: 11px;
+    width: 220px;
+    margin-top: 70px;
     opacity: 0;
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
@@ -1097,18 +1097,18 @@ nav {
     transition: all 0.4s ease;
 }
 .navbar-alt .navbar-brand .logo-big {
-    margin-top: 5px;
+    margin-top: -50px;
 }
 .navbar-alt .navbar-brand .logo-small {
-    margin-top: 5px;
+    margin-top: -10px;
 }
 /* End Logo Big White */
 /* Logo Small Black */
 .navbar-small .navbar-brand .logo-big {
     position:absolute;
     opacity: 0;
-    width: 100px;
-    margin-top: 3px;  
+    width: 140px;
+    margin-top: -5px;  
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
@@ -1118,7 +1118,7 @@ nav {
 .navbar-small .navbar-brand .logo-small {
     position:absolute;
     opacity: 1;
-    width: 90px;
+    width: 120px;
     margin-top: 3px; 
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
