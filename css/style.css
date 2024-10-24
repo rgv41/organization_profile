@@ -235,7 +235,7 @@ p {
 }
 
 .cube {
-  background-color: #ff7905;
+  background-color: #deb613;
   width: 10px;
   height: 10px;
   position: absolute;
@@ -871,7 +871,7 @@ nav {
 } 
 .navbar-alt .navbar-nav > li > a,
 .navbar-alt .navbar-nav > li > span {
-	color: #e1d383;
+	color: #deb613;
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
@@ -1833,9 +1833,9 @@ blockquote strong {
 }
 .cbp-l-loadMore-button .cbp-l-loadMore-button-link {
     background: #f6f7f7;
-    border: 1px solid #91DA32;
+    border: 1px solid #deb613;
     border-radius: 3px;
-    color: #91DA32;
+    color: #deb613;
     display: inline-block;
     font: 400 11px/34px "Montserrat",sans-serif;
     min-width: 80px;
