@@ -1077,7 +1077,7 @@ nav {
 .navbar-default .navbar-brand .logo-big {
 	position:absolute;
     opacity: 1;
-    width: 240px;
+    width: 140px;
     margin-top: 70px; 
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
@@ -1087,7 +1087,7 @@ nav {
 }
 .navbar-default .navbar-brand .logo-small {
 	position:absolute;
-    width: 220px;
+    width: 120px;
     margin-top: 70px;
     opacity: 0;
     -webkit-transition: all 0.4s ease;
@@ -1097,7 +1097,7 @@ nav {
     transition: all 0.4s ease;
 }
 .navbar-alt .navbar-brand .logo-big {
-    margin-top: -50px;
+    margin-top: -30px;
 }
 .navbar-alt .navbar-brand .logo-small {
     margin-top: -10px;
